@@ -1,0 +1,7 @@
+c:\users\imran\source\repos\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+c:\users\imran\source\repos\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe
+c:\users\imran\source\repos\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+c:\users\imran\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojAssemblyReference.cache
+c:\users\imran\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CoreCompileInputs.cache
+c:\users\imran\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
+c:\users\imran\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
